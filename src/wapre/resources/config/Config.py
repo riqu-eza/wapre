@@ -1,0 +1,1 @@
+DATABASE_URI="mongodb+srv://Adminwapre:Wapre2024@cluster0.juqfc.mongodb.net/wapre?retryWrites=true&w=majority&appName=Cluster0"
